@@ -1,7 +1,6 @@
-
 Esta es mi Historia
 Me llamo Leodan Garcia
 soy de Zumba Ecuador tengo 33 años
 estoy entrando en el mundo de la programacion 
-y esta muy interesante por ahora aprendiendo
-Git Hub 
+con python y me encanta ese lenguaje es muy interesante
+y por ahora aprendiendo Git Hub 
