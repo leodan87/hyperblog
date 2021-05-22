@@ -1,7 +1,11 @@
 body
 {
+<<<<<<< HEAD
 
     color:#333;
+=======
+    color:blue;
+>>>>>>> d55f073 (Agregue suscripcion, cambie la cabecera maestra y puse todo azul)
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
